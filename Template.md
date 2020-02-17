@@ -2,6 +2,8 @@
 
 ## Link
 * [Netflix]()
+* [Amazon]()
+* [Hulu]()
 
 ## Outline
 
