@@ -1,7 +1,7 @@
 # 子宮に沈める
 
 ## Link
-[Netflix](https://www.netflix.com/title/80191891)
+* [Netflix](https://www.netflix.com/title/80191891)
 
 ## Outline
 幼児を放置して死なせてしまうお話。
