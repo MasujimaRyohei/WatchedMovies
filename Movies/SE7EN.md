@@ -1,6 +1,6 @@
 # SE7EN
 
-https://www.netflix.com/title/950149
+[Netflix](https://www.netflix.com/title/950149)
 
 David Andrew Leo Fincherの作品。
 
