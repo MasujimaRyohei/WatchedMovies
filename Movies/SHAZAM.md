@@ -1,8 +1,12 @@
 # SHAZAM
 
-[Netflix](https://www.netflix.com/title/81030627)
+## Link
+* [Netflix](https://www.netflix.com/title/81030627)
 
+## Outline
 ヒーローもの。
+
+## My impression
 他ヒーローやホラー映画ミストのパロディが含まれている
 テンポもよく、スローモーションの演出とかもよかった。
 
