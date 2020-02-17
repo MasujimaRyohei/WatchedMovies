@@ -1,6 +1,6 @@
 # SHAZAM
 
-https://www.netflix.com/title/81030627
+[Netflix](https://www.netflix.com/title/81030627)
 
 ヒーローもの。
 他ヒーローやホラー映画ミストのパロディが含まれている
