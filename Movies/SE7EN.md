@@ -1,8 +1,15 @@
-SE7EN
+# SE7EN
+
 https://www.netflix.com/title/950149
-David Andrew Leo Fincherの作品
+
+David Andrew Leo Fincherの作品。
+
 連続猟奇殺人鬼を追いかける刑事二人の物語。
+
 殺人鬼はキリスト教の７つの大罪に合わせて人を殺していく。
+
 残り30分らへんでオチがわかってしまった。
+
 胸くそが悪い。
+
 ミュージアムとかSAWはこの映画の影響をすごく受けてそうだなと思った。
