@@ -15,6 +15,7 @@ So all Japanese replace to English soon.
 ### E
 ### F
 ### G
+* [GO](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/GO.md)
 ### H
 ### I
 ### J
