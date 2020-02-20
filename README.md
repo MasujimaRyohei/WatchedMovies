@@ -13,6 +13,7 @@ So all Japanese replace to English soon.
 ### C
 ### D
 ### E
+* [Eli](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/Eli.md)
 ### F
 ### G
 * [GO](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/GO.md)
