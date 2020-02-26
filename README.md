@@ -22,6 +22,7 @@ So all Japanese replace to English soon.
 ### J
 ### K
 ### L
+* [Love's Whirlpool](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/LovesWhirlpool.md)
 ### M
 ### N
 ### O
