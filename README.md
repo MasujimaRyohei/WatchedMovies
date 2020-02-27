@@ -33,6 +33,7 @@ So all Japanese replace to English soon.
 * [SE7EN](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/SE7EN.md)
 * [Shazam!](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/SHAZAM.md)
 * [Socrates in Love](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/SocratesInLove.md)
+* [Suicide Club](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/SuicideClub.md)
 * [Sunk into The Womb](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/SunkIntoTheWomb.md)
 
 ### T
