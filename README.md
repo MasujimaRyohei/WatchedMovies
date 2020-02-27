@@ -39,6 +39,7 @@ So all Japanese replace to English soon.
 ### T
 * [The Best Offer](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/TheBestOffer.md)
 * [The Mist](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/TheMist.md)
+* [THE PURGE](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/ThePurge.md)
 * [TorakkuYarō Bakusō Ichibanboshi](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/TorakkuYar%C5%8DBakus%C5%8DIchibanboshi.md)
 ### U
 ### V
