@@ -19,6 +19,7 @@ So all Japanese replace to English soon.
 * [GO](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/GO.md)
 ### H
 ### I
+* [Ibitsu](https://github.com/MasujimaRyohei/WatchedMovies/blob/master/Movies/Ibitsu.md)
 ### J
 ### K
 ### L
